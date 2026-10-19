@@ -1,0 +1,39 @@
+{
+  "heading": "G9NL_Expository Writing Part 1(Writing)",
+  "topics": [
+    {
+      "heading": "Expository Writing Part 1(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence using the word “Prosaic,” which means “Ordinary, unimaginative, lacking poetic beauty; also practical or straightforward.”",
+          "text_area": "",
+          "answer": ["The committee dismissed his ideas as too prosaic to inspire innovation."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence using the word “Sagacious,” which means “Wise, shrewd, showing keen mental discernment and good judgment.”",
+          "text_area": "",
+          "answer": ["Her sagacious remarks guided the team through a difficult negotiation."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence using the word “Compendium,” which means “A concise collection or summary of knowledge, often in book or manual form.”",
+          "text_area": "",
+          "answer": ["The library housed a compendium of rare manuscripts detailing medieval law."]
+        },
+        
+        {
+          "questionNo": 4,
+          "type": "long",
+          "question": "<b>Prepare (pre-plan) and write the introduction paragraph of an advice sheet on the following topic:</b><br><i>“Advice sheet for students on how to prepare for the exams.”</i><br><u><b>Read the following instructions clearly before you start:</u></b><ol><li><u>Break down the prompt</u> to <u>identify </u>and define the key components. Then write a sentence explaining what this question is really asking you to do.</li><li>Brainstorm ideas by listing the necessary questions (for the advice sheet) and their answers</li><li>Organise the ideas by creating an outline (you can use 3-4 advice points for the body)</li><li>Once you are done, you can begin writing the introduction.</li><ol type = 'a'><li>Start by acknowledging the problem (the prompt) (1-2 sentences)</li><li>State what advice will be covered later on (1-2 sentences)</li><li>End enthusiastically</li></ol></ol>Word limit for the introduction (50-60)",
+          "text_area": "",
+          "answer": [""]
+        }
+      ]
+    }
+  ]
+}
